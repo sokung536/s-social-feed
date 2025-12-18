@@ -1,0 +1,33 @@
+{
+  "common": {
+    "language": "ภาษา",
+    "theme": "ธีม",
+    "light": "สว่าง",
+    "dark": "มืด",
+    "system": "ตามระบบ",
+    "login": "เข้าสู่ระบบ"
+  },
+  "socialFeed": {
+    "title": "ฟีดโซเชียล",
+    "individualFeed": "ฟีดส่วนตัว",
+    "sortBy": "เรียงตาม",
+    "viewPost": "ดูโพสต์",
+    "seeMore": "ดูเพิ่มเติม",
+    "now": "เมื่อสักครู่",
+    "like": "ไลค์",
+    "share": "แชร์"
+  },
+  "appSideBar": {
+    "Feed": "ฟีดโซเชียล",
+    "Main": "หลัก",
+    "Group": "กลุ่ม",
+    "Friends": "เพื่อน",
+    "Family": "ครอบครัว",
+    "Work": "งาน"
+  },
+  "friendList": {
+    "allFriends": "เพื่อนทั้งหมด",
+    "activeNow": "กำลังใช้งาน",
+    "activeHoursAgo": "ใช้งานเมื่อ {hours} ชั่วโมงที่แล้ว"
+  }
+}

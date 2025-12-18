@@ -1,0 +1,33 @@
+{
+  "common": {
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "login": "Login"
+  },
+  "socialFeed": {
+    "title": "Social Feed",
+    "individualFeed": "Individual feed",
+    "sortBy": "Sort by",
+    "viewPost": "View post",
+    "seeMore": "See more",
+    "now": "Now",
+    "like": "Like",
+    "share": "Share"
+  },
+  "appSideBar": {
+    "Feed": "Feed",
+    "Main": "Main",
+    "Group": "Group",
+    "Friends": "Friends",
+    "Family": "Family",
+    "Work": "Work"
+  },
+  "friendList": {
+    "allFriends": "All Friends",
+    "activeNow": "Active Now",
+    "activeHoursAgo": "Active {hours} hours ago"
+  }
+}
